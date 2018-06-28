@@ -1,0 +1,11 @@
+choco install totalcommander
+choco install greenshot
+choco install freemind
+choco install vlc
+# browsers
+choco install google-chrome-x64
+choco install Firefox
+
+choco install sublimetext3 
+
+#Install-WindowsUpdate -getUpdatesFromMS -acceptEula -SuppressReboots
