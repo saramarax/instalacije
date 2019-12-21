@@ -7,5 +7,6 @@ choco install google-chrome-x64
 choco install Firefox
 
 choco install sublimetext3 
+choco install tor-browser
 
 #Install-WindowsUpdate -getUpdatesFromMS -acceptEula -SuppressReboots
